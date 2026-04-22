@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+yfinance
+transformers
+torch
+tqdm
+nltk
